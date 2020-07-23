@@ -1,0 +1,25 @@
+{
+  "name": "@qed2000/fr",
+  "version": "1.0.0",
+  "description": "Conjugator is a package that uses morphological rules to provide full conjugations for verbs in various languages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qed2000/fr.git"
+  },
+  "keywords": [
+    "linguistics",
+    "morphology",
+    "conjugation",
+    "French"
+  ],
+  "author": "William Hornbaker",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/qed2000/fr/issues"
+  },
+  "homepage": "https://github.com/qed2000/fr#readme"
+}
