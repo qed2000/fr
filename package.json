@@ -2,7 +2,7 @@
   "name": "@qed2000/fr",
   "version": "1.0.0",
   "description": "Conjugator is a package that uses morphological rules to provide full conjugations for verbs in various languages.",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
