@@ -1,8 +1,9 @@
 export class Conjugator {
+    constructor() {}
 
-    public conjugate() {
+    conjugate() {
         return getConjugation();
-    }    
+    }
 }
 
 function getConjugation() {
